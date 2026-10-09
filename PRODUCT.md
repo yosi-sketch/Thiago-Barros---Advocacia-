@@ -1,31 +1,9 @@
-# Karine Lima — Advocacia Familiarista
+# Thiago Barros — Advocacia e Consultoria Jurídica
 
-## Plataforma
-Site institucional responsivo em Next.js, com navegação por seções, detalhes das áreas de atuação em modal e links de contato.
-
-## Público
-Pessoas que procuram informação e orientação jurídica em Direito de Família em Teófilo Otoni e região.
-
-## Objetivo
-Apresentar Karine Lima, sua atuação familiarista e formas de contato e localização.
-
-## Identidade
-- Nome: Karine Lima, advogada familiarista.
-- Paleta extraída da marca: marrom quente, tons de areia e marfim.
-- Tipografia: Cormorant Garamond nos títulos e Plus Jakarta Sans nos textos.
-- Tom: acolhedor, sóbrio, claro e informativo.
-
-## Conteúdo e mídia
-- Endereço: R. Dr. Manoel Esteves, 333, sala 210, Centro, Teófilo Otoni - MG, 39800-090.
-- Instagram: @karinelima.adv — https://www.instagram.com/karinelima.adv/.
-- Áreas representadas nos materiais: divórcio, convivência familiar e adoção.
-- Logo, retratos profissionais e publicações informativas fornecidos para o projeto.
-- Avaliações públicas podem ser consultadas no perfil do Google; depoimentos individuais não são reproduzidos no site.
-
-## Contato
-Instagram e localização pública no Google são os canais disponíveis nos dados fornecidos. Telefone, WhatsApp, e-mail e inscrição na OAB não foram informados.
-
-## Restrições técnicas
-- Next.js 16 App Router, React 19, Tailwind CSS 4 e Framer Motion.
-- Imagens locais, servidas pelo componente de imagem do Next.js.
-- Navegação responsiva, animações com suporte à preferência por movimento reduzido e metadados atualizados.
+Site institucional responsivo para apresentar a atuação criminal e de trânsito em Barbacena e região, consultoria e correspondência jurídica.
+Identidade: dourado claro #ffe0a0, dourado #c09040, bronze #806020 (logo fornecido), preto #0e100e e marfim #faf8f2. Tipografia: Cinzel e Manrope.
+Contato: (32) 98899-5799; https://www.instagram.com/thiago.barrosadv/.
+Endereço: Rua Alfredo Renault, 96, Centro, Barbacena — MG, 36200-110, Brasil.
+Registro profissional: OAB/MG 221.217, conforme o logo. E-mail não informado.
+Conteúdo: apresentação, quatro áreas com detalhes em modal acessível, sobre o advogado, etapas do atendimento, três avaliações do material fornecido, contato e rodapé.
+Mídia: logo original e três retratos locais fornecidos. Links de atendimento direcionam ao WhatsApp confirmado; telefone, Instagram e Google Maps disponíveis. Não há contadores ou qualificações profissionais inventadas.
